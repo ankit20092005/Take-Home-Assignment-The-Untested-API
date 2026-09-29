@@ -217,7 +217,7 @@ A production version would likely require persistent storage.
 **To be added after deployment:**
 
 ```text
-YOUR_LIVE_API_URL
+https://take-home-assignment-the-untested-api-back.onrender.com
 ```
 
 ## Repository
@@ -225,5 +225,5 @@ YOUR_LIVE_API_URL
 **GitHub:**
 
 ```text
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/ankit20092005/Take-Home-Assignment-The-Untested-API
 ```
